@@ -28,13 +28,13 @@ function home() {
                       </p>
                       <div className="banner-button-group">
                         <a
-                          href="contact-us.html"
+                          href="contact"
                           className="btn btn-primary animated fadeInUp"
                         >
                           Contact Us
                         </a>
                         <a
-                          href="tours.html"
+                          href="tours"
                           className="btn btn-primary learn-more animated fadeInUp"
                         >
                           Learn More
@@ -67,13 +67,13 @@ function home() {
                       </p>
                       <div className="banner-button-group">
                         <a
-                          href="contact-us.html"
+                          href="contact"
                           className="btn btn-primary animated fadeInUp"
                         >
                           Contact Us
                         </a>
                         <a
-                          href="tours.html"
+                          href="tours"
                           className="btn btn-primary learn-more animated fadeInUp"
                         >
                           Learn More
@@ -110,13 +110,13 @@ function home() {
                       </p>
                       <div className="banner-button-group">
                         <a
-                          href="contact-us.html"
+                          href="contact"
                           className="btn btn-primary animated fadeInUp"
                         >
                           Contact Us
                         </a>
                         <a
-                          href="tours.html"
+                          href="tours"
                           className="btn btn-primary learn-more animated fadeInUp"
                         >
                           Learn More
@@ -180,7 +180,7 @@ function home() {
           <div className="row" >
             <div className="col-md-6 col-12">
               <div className="destination-item">
-                <a href="tours.html">
+                <a href="tours">
                   <img src="img/destinations/1.png" alt="" />
                   <div className="info-overlay">
                     <h4>Malé</h4>
@@ -191,7 +191,7 @@ function home() {
             </div>
             <div className="col-md-6 col-12">
               <div className="destination-item">
-                <a href="tours.html">
+                <a href="tours">
                   <img src="img/destinations/2.png" alt="" />
                   <div className="info-overlay">
                     <h4>Bangkok</h4>
@@ -202,7 +202,7 @@ function home() {
             </div>
             <div className="col-md-4 col-12">
               <div className="destination-item item">
-                <a href="tours.html">
+                <a href="tours">
                   <img src="img/destinations/3.png" alt="" />
                   <div className="info-overlay">
                     <h4>Kuala Lumpur</h4>
@@ -213,7 +213,7 @@ function home() {
             </div>
             <div className="col-md-4 col-12">
               <div className="destination-item item">
-                <a href="tours.html">
+                <a href="tours">
                   <img src="img/destinations/4.png" alt="" />
                   <div className="info-overlay">
                     <h4>Kathmandu</h4>
@@ -224,7 +224,7 @@ function home() {
             </div>
             <div className="col-md-4 col-12">
               <div className="destination-item item mb-0">
-                <a href="tours.html">
+                <a href="tours">
                   <img src="img/destinations/5.png" alt="" />
                   <div className="info-overlay">
                     <h4>Jakarta</h4>
@@ -296,7 +296,7 @@ function home() {
                   </div>
                 </div>
                 <div className="cta-button">
-                  <a href="booking.html" className="btn btn-primary">
+                  <a href="booking" className="btn btn-primary">
                     Booking Now
                   </a>
                 </div>
@@ -375,7 +375,7 @@ function home() {
           </div>
           <div className="row" >
             <div className="col-md-6 col-lg-4">
-              <a href="tours-details.html">
+              <a href="tours">
                 <div className="card tour-card wow fadeIn">
                   <img className="card-img-top" src="img/tour/1.png" alt="" />
                   <span className="tour-duration">
@@ -402,7 +402,7 @@ function home() {
               </a>
             </div>
             <div className="col-md-6 col-lg-4">
-              <a href="tours-details.html">
+              <a href="tours">
                 <div className="card tour-card wow fadeIn">
                   <img className="card-img-top" src="img/tour/2.png" alt="" />
                   <span className="tour-duration">
@@ -429,7 +429,7 @@ function home() {
               </a>
             </div>
             <div className="col-md-6 col-lg-4">
-              <a href="tours-details.html">
+              <a href="tours">
                 <div className="card tour-card wow fadeIn">
                   <img className="card-img-top" src="img/tour/3.png" alt="" />
                   <span className="tour-duration">
@@ -456,7 +456,7 @@ function home() {
               </a>
             </div>
             <div className="col-md-6 col-lg-4 d-block d-lg-none">
-              <a href="tours-details.html">
+              <a href="tours">
                 <div className="card tour-card wow fadeIn">
                   <img className="card-img-top" src="img/tour/1.png" alt="" />
                   <span className="tour-duration">
@@ -637,7 +637,7 @@ function home() {
           </div>
           <div className="row" >
             <div className="col-md-6 col-lg-4">
-              <a href="blog-single.html">
+              <a href="blog">
                 <div className="card tour-card wow fadeIn">
                   <img className="card-img-top" src="img/blog/1.png" alt="" />
                   <span className="tour-duration">
@@ -670,7 +670,7 @@ function home() {
               </a>
             </div>
             <div className="col-md-6 col-lg-4">
-              <a href="blog-single.html">
+              <a href="blog">
                 <div className="card tour-card wow fadeIn">
                   <img className="card-img-top" src="img/blog/2.png" alt="" />
                   <span className="tour-duration">
@@ -703,7 +703,7 @@ function home() {
               </a>
             </div>
             <div className="col-md-6 col-lg-4">
-              <a href="blog-single.html">
+              <a href="blog">
                 <div className="card tour-card wow fadeIn">
                   <img className="card-img-top" src="img/blog/3.png" alt="" />
                   <span className="tour-duration">
@@ -736,7 +736,7 @@ function home() {
               </a>
             </div>
             <div className="col-md-6 col-lg-4 d-block d-lg-none">
-              <a href="blog-single.html">
+              <a href="blog">
                 <div className="card tour-card wow fadeIn">
                   <img className="card-img-top" src="img/blog/1.png" alt="" />
                   <span className="tour-duration">
