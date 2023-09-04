@@ -4,15 +4,6 @@ import Navbar from "./navbar";
 function header1() {
   return (
     <div>
-      {/*Preload*/}
-      {/* <div className="preloader">
-        <div className="preloader_image">
-          <div className="sk-double-bounce">
-            <div className="sk-child sk-double-bounce1" />
-            <div className="sk-child sk-double-bounce2" />
-          </div>
-        </div>
-      </div> */}
       <nav className="navbar navbar-expand-lg white-bg">
         <div className="container">
           <Link className="navbar-brand" to="/">
