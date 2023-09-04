@@ -1,6 +1,8 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import Header1 from "../Component/header1";
 import Footer from "../Component/footer";
+
 function about() {
   return (
     <div>
@@ -111,13 +113,13 @@ function about() {
                 don't look even slightly believable.
               </p>
               <div className="play-button" >
-                <a
-                  href="javascript:void(0)"
+                <Link
+                  to="javascript:void(0)"
                   data-bs-toggle="modal"
                   data-bs-target="#video-modal"
                 >
                   <i className="fa fa-play" />
-                </a>
+                </Link>
               </div>
               <div className="features-items" >
                 <div className="feature-item">
